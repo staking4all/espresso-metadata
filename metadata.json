@@ -1,0 +1,12 @@
+{
+  "pub_key": "BLS_VER_KEY~tvQXFPRcCugBDEVrUzu3v7CwKSsp1CFhxQX4bj9SigeLkCYmF4h-h1o87rQJdxIioKweK5vlVSbLP5c6FnniL4xqzqlg6FHX3DXmX2ecjQXRs_n8aIDC-6EDC43wny0DS61dwfEbPS9fzcxmuIbq0eXPAwZ28hJMz2VojusxBwLV",
+  "name": "Staking4All",
+  "description": "Validator for Proof of Stake blockchains",
+  "company_name": "Staking4All",
+  "company_website": "https://www.staking4all.org/",
+  "client_version": "v1.0.0",
+  "icon": {
+    "14x14": { "@1x": "https://raw.githubusercontent.com/staking4all/espresso-metadata/refs/heads/main/s4a_round_logo_14.jpg", "@2x": "https://raw.githubusercontent.com/staking4all/espresso-metadata/refs/heads/main/s4a_round_logo_42.jpg" },
+    "24x24": { "@1x": "https://raw.githubusercontent.com/staking4all/espresso-metadata/refs/heads/main/s4a_round_logo_24.jpg", "@2x": "https://raw.githubusercontent.com/staking4all/espresso-metadata/refs/heads/main/s4a_round_logo_48.jpg", "@3x": "https://raw.githubusercontent.com/staking4all/espresso-metadata/refs/heads/main/s4a_round_logo_72.jpg" }
+  }
+}
